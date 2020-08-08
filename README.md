@@ -1,3 +1,9 @@
+# !!DEPRECATED warning!!
+
+This package is deprecated and we suggest to move `helm-swoop` instead.
+`helm-swoop` is the successor to `swoop` and is well maintained.
+There are no additional feature updates and it is a low priority for bugs to be fixed.
+
 # Swoop.el
 
 Peculiar buffer navigation for Emacs.
